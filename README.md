@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=CFECEC&height=300&section=header&text=yeonjae&fontSize=90&fontColor=52595D)
+![header](https://capsule-render.vercel.app/api?type=waving&color=CFECEC&height=300&section=header&text=yeonjae&fontSize=70&fontColor=52595D)
 
 
 ### Hi there 👋
