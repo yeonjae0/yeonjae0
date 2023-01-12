@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&textYeonjae0&fontSize=70)
+
+
 ### Hi there 👋
 
 <!--
